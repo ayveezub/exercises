@@ -8,7 +8,7 @@ Parallelism is about doing things in parallel that can also be done sequentially
 
 ### Hint:
 
-Use `Promise.all()`
+Use the `Promise.all()` method along with `async/await`.
 
 ### Run tests:
 
